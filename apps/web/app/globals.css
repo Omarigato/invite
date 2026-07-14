@@ -1,0 +1,75 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: oklch(96.2% 0.018 272.314);
+  --color-primary-100: oklch(93% 0.034 272.788);
+  --color-primary-200: oklch(87% 0.065 274.039);
+  --color-primary-300: oklch(78.5% 0.115 274.713);
+  --color-primary-400: oklch(67.3% 0.182 276.935);
+  --color-primary-500: oklch(58.5% 0.233 277.117);
+  --color-primary-600: oklch(51.1% 0.262 276.966);
+  --color-primary-700: oklch(45.7% 0.24 277.023);
+  --color-primary-800: oklch(39.8% 0.195 277.366);
+  --color-primary-900: oklch(35.9% 0.144 278.697);
+  --color-primary-950: oklch(25.7% 0.09 281.288);
+
+  --color-secondary-50: oklch(97% 0.014 254.604);
+  --color-secondary-500: oklch(62.3% 0.214 259.815);
+
+  --font-display: "Comfortaa", sans-serif;
+  --font-body: "Jost", sans-serif;
+  --font-serif: "Cormorant Garamond", serif;
+  --font-cursive: "Great Vibes", cursive;
+}
+
+:root {
+  --background: oklch(98.5% 0 0);
+  --foreground: oklch(20.5% 0 0);
+  --card: oklch(100% 0 0);
+  --card-foreground: oklch(20.5% 0 0);
+  --muted: oklch(97% 0 0);
+  --muted-foreground: oklch(55.6% 0 0);
+  --border: oklch(92.2% 0 0);
+  --ring: oklch(58.5% 0.233 277.117);
+}
+
+.dark {
+  --background: oklch(14.5% 0 0);
+  --foreground: oklch(98.5% 0 0);
+  --card: oklch(20.5% 0 0);
+  --card-foreground: oklch(98.5% 0 0);
+  --muted: oklch(26.9% 0 0);
+  --muted-foreground: oklch(70.8% 0 0);
+  --border: oklch(26.9% 0 0);
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--background);
+  color: var(--foreground);
+}
+
+@keyframes blob-a {
+  0%, 100% { transform: translate(0) scale(1); }
+  50% { transform: translate(4%, 3%) scale(1.06); }
+}
+
+@keyframes blob-b {
+  0%, 100% { transform: translate(0) scale(1); }
+  50% { transform: translate(-5%, -2%) scale(1.04); }
+}
+
+@keyframes blob-c {
+  0%, 100% { transform: translate(0) scale(1); }
+  50% { transform: translate(3%, -4%) scale(1.05); }
+}
+
+@keyframes shimmer {
+  0%, 58% { transform: translate(-145%); }
+  100% { transform: translate(145%); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
