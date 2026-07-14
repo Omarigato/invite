@@ -1,0 +1,12 @@
+{
+  "$schema": "https://mimo.xiaomi.com/mimocode/config.json",
+  "mcp": {
+    "playwright": {
+      "type": "local",
+      "command": [
+        "npx",
+        "@playwright/mcp@latest"
+      ]
+    }
+  }
+}
