@@ -17,7 +17,7 @@ export default function TextGeneratorPage() {
   async function generate() {
     setLoading(true);
     try {
-      const res = await fetch("http://localhost:8000/api/v1/tools/text-preview", {
+      const res = await fetch("/api/v1/tools/text-preview", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ event_type: eventType, language, names, date, time, address }),

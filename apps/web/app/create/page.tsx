@@ -20,7 +20,7 @@ export default function CreatePage() {
   const [token, setToken] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/v1/templates")
+    fetch("/api/v1/templates")
       .then((r) => r.json())
       .then(setTemplates)
       .catch(console.error);
@@ -31,7 +31,7 @@ export default function CreatePage() {
     const phone = prompt("Введите номер телефона:");
     if (!phone) return;
 
-    await fetch("http://localhost:8000/api/v1/auth/request-otp", {
+    await fetch("/api/v1/auth/request-otp", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ phone }),
@@ -40,7 +40,7 @@ export default function CreatePage() {
     const code = prompt("Введите код (в dev: 123456):");
     if (!code) return;
 
-    const res = await fetch(`http://localhost:8000/api/v1/auth/verify-otp?phone=${encodeURIComponent(phone)}&code=${code}`);
+    const res = await fetch(`/api/v1/auth/verify-otp?phone=${encodeURIComponent(phone)}&code=${code}`);
     const data = await res.json();
     setToken(data.access_token);
   }
@@ -50,7 +50,7 @@ export default function CreatePage() {
     const template = templates.find((t) => t.id === selectedTemplate);
     if (!template) return;
 
-    const res = await fetch("http://localhost:8000/api/v1/cards", {
+    const res = await fetch("/api/v1/cards", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

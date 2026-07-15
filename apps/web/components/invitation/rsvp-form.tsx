@@ -21,7 +21,7 @@ export function RsvpForm({ cardId, slug }: Props) {
     if (!name.trim()) return;
     setLoading(true);
     try {
-      const res = await fetch(`http://localhost:8000/api/v1/i/${slug}/rsvp`, {
+      const res = await fetch(`/api/v1/i/${slug}/rsvp`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

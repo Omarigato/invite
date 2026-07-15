@@ -16,7 +16,7 @@ export default function BlogPage() {
   const [posts, setPosts] = useState<Post[]>([]);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/v1/blog")
+    fetch("/api/v1/blog")
       .then((r) => r.json())
       .then(setPosts)
       .catch(console.error);

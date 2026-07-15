@@ -17,7 +17,7 @@ export default function TemplatesPage() {
   const [categories, setCategories] = useState<Category[]>([]);
 
   useEffect(() => {
-    fetch("http://localhost:8000/api/v1/categories")
+    fetch("/api/v1/categories")
       .then((r) => r.json())
       .then(setCategories)
       .catch(console.error);

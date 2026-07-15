@@ -4,7 +4,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       { protocol: "https", hostname: "images.unsplash.com" },
-      { protocol: "https", hostname: "api.shaqyrtu.kz" },
+      { protocol: "http", hostname: "localhost", port: "8000" },
       { protocol: "http", hostname: "localhost" },
     ],
   },
