@@ -62,3 +62,6 @@ coverage/
 next-env.d.ts
 .vercel
 
+# MiMoCode config (contains API keys)
+.mimocode/
+
