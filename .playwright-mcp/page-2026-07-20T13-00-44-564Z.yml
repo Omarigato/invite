@@ -1,0 +1,24 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e290]:
+      - paragraph [ref=f5e291]: 6 / 8
+      - heading "Шақырудың мұқабасы" [level=2] [ref=f5e292]
+    - generic [ref=f5e293]:
+      - paragraph [ref=f5e294]: Сурет таңдаңыз немесе тірі мұқабаны қалдырыңыз
+      - generic [ref=f5e297]:
+        - generic [ref=f5e298]:
+          - generic [ref=f5e299]: Басты экран
+          - paragraph [ref=f5e301]: Сурет міндетті емес
+        - generic [ref=f5e304]:
+          - button "Өз фото" [ref=f5e305] [cursor=pointer]
+          - button [ref=f5e308] [cursor=pointer]
+          - button [ref=f5e309] [cursor=pointer]
+          - button [ref=f5e310] [cursor=pointer]
+          - button [ref=f5e311] [cursor=pointer]
+          - button [ref=f5e312] [cursor=pointer]
+          - button [ref=f5e313] [cursor=pointer]
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [active] [ref=f5e87]
+  - region "Notifications (F8)":
+    - list

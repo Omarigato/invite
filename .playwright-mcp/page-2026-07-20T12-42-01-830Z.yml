@@ -1,0 +1,25 @@
+- generic [ref=e1]:
+  - generic [ref=e215]:
+    - generic [ref=e262]:
+      - paragraph [ref=e263]: 1 / 7
+      - heading "Выберите стиль оформления" [level=2] [ref=e264]
+    - generic [ref=e267]:
+      - paragraph [ref=e268]: 1. Выберите стиль
+      - generic [ref=e269]:
+        - generic [ref=e270]:
+          - button "Daylight" [ref=e271]
+          - paragraph [ref=e275]: Daylight
+        - generic [ref=e276]:
+          - button "Алтын" [ref=e277]
+          - paragraph [ref=e281]: Алтын
+        - generic [ref=e282]:
+          - button "Цветы" [ref=e283]
+          - paragraph [ref=e289]: Цветы
+        - generic [ref=e290]:
+          - button "Казахский" [ref=e291]
+          - paragraph [ref=e295]: Казахский
+    - generic [ref=e250]:
+      - button [ref=e296]
+      - button "Далее" [active] [ref=e298]
+  - region "Notifications (F8)":
+    - list

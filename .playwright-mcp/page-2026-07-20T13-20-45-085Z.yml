@@ -1,0 +1,19 @@
+- generic [ref=f6e1]:
+  - generic [ref=f6e4]:
+    - banner [ref=f6e5]:
+      - generic [ref=f6e6]:
+        - generic [ref=f6e7]:
+          - link [ref=f6e9] [cursor=pointer]:
+            - /url: /
+            - img "Shaqyrtu Logo" [ref=f6e10]
+            - paragraph [ref=f6e11]: shaqyrtu
+          - tablist [ref=f6e13]:
+            - tab "KZ" [selected] [ref=f6e15]
+            - tab "RU" [ref=f6e17]
+          - button "Switch to light mode" [ref=f6e19]
+        - tablist [ref=f6e22]:
+          - tab "Басты" [ref=f6e24] [cursor=pointer]
+          - tab "Қонақтар" [active] [selected] [ref=f6e27] [cursor=pointer]
+    - main [ref=f6e30]
+  - region "Notifications (F8)":
+    - list

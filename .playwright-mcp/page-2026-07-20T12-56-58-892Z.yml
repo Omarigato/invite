@@ -1,0 +1,266 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e93]:
+      - paragraph [ref=f5e94]: 2 / 8
+      - heading "Үйлесімді түс таңдаңыз" [level=2] [ref=f5e95]
+    - generic [ref=f5e97]:
+      - paragraph [ref=f5e98]: Мұқаба
+      - generic [ref=f5e99]:
+        - button "Үлкейту" [ref=f5e100]
+        - generic [ref=f5e103]:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - img "Шақырту"
+                      - generic:
+                        - generic:
+                          - alert "loading"
+                        - button
+                  - generic:
+                    - generic: Ардақты ағайын!
+                    - generic:
+                      - generic: Қызымыздың ұзату тойына қош келдіңіздер
+                      - generic: Томирис
+                    - generic:
+                      - generic:
+                        - paragraph
+                    - generic:
+                      - alert "loading"
+                  - generic:
+                    - generic:
+                      - generic:
+                        - alert "loading"
+                      - generic: Қыркүйек
+                      - generic:
+                        - generic "Event Date, September 2026":
+                          - generic: 19.09.2026
+                          - generic:
+                            - grid [disabled]:
+                              - rowgroup:
+                                - row [disabled]:
+                                  - columnheader [disabled]: Дс
+                                  - columnheader [disabled]: Сс
+                                  - columnheader [disabled]: Ср
+                                  - columnheader [disabled]: Бс
+                                  - columnheader [disabled]: Жм
+                                  - columnheader [disabled]: Сб
+                                  - columnheader [disabled]: Жс
+                              - rowgroup:
+                                - row "Monday, August 31, 2026 Tuesday, September 1, 2026 Wednesday, September 2, 2026 Thursday, September 3, 2026 Friday, September 4, 2026 Saturday, September 5, 2026 Sunday, September 6, 2026" [disabled]:
+                                  - gridcell "Monday, August 31, 2026" [disabled]:
+                                    - button "Monday, August 31, 2026" [disabled]:
+                                      - generic: "31"
+                                  - gridcell "Tuesday, September 1, 2026" [disabled]:
+                                    - button "Tuesday, September 1, 2026" [disabled]:
+                                      - generic: "1"
+                                  - gridcell "Wednesday, September 2, 2026" [disabled]:
+                                    - button "Wednesday, September 2, 2026" [disabled]:
+                                      - generic: "2"
+                                  - gridcell "Thursday, September 3, 2026" [disabled]:
+                                    - button "Thursday, September 3, 2026" [disabled]:
+                                      - generic: "3"
+                                  - gridcell "Friday, September 4, 2026" [disabled]:
+                                    - button "Friday, September 4, 2026" [disabled]:
+                                      - generic: "4"
+                                  - gridcell "Saturday, September 5, 2026" [disabled]:
+                                    - button "Saturday, September 5, 2026" [disabled]:
+                                      - generic: "5"
+                                  - gridcell "Sunday, September 6, 2026" [disabled]:
+                                    - button "Sunday, September 6, 2026" [disabled]:
+                                      - generic: "6"
+                                - row "Monday, September 7, 2026 Tuesday, September 8, 2026 Wednesday, September 9, 2026 Thursday, September 10, 2026 Friday, September 11, 2026 Saturday, September 12, 2026 Sunday, September 13, 2026" [disabled]:
+                                  - gridcell "Monday, September 7, 2026" [disabled]:
+                                    - button "Monday, September 7, 2026" [disabled]:
+                                      - generic: "7"
+                                  - gridcell "Tuesday, September 8, 2026" [disabled]:
+                                    - button "Tuesday, September 8, 2026" [disabled]:
+                                      - generic: "8"
+                                  - gridcell "Wednesday, September 9, 2026" [disabled]:
+                                    - button "Wednesday, September 9, 2026" [disabled]:
+                                      - generic: "9"
+                                  - gridcell "Thursday, September 10, 2026" [disabled]:
+                                    - button "Thursday, September 10, 2026" [disabled]:
+                                      - generic: "10"
+                                  - gridcell "Friday, September 11, 2026" [disabled]:
+                                    - button "Friday, September 11, 2026" [disabled]:
+                                      - generic: "11"
+                                  - gridcell "Saturday, September 12, 2026" [disabled]:
+                                    - button "Saturday, September 12, 2026" [disabled]:
+                                      - generic: "12"
+                                  - gridcell "Sunday, September 13, 2026" [disabled]:
+                                    - button "Sunday, September 13, 2026" [disabled]:
+                                      - generic: "13"
+                                - row "Monday, September 14, 2026 Tuesday, September 15, 2026 Wednesday, September 16, 2026 Thursday, September 17, 2026 Friday, September 18, 2026 Saturday, September 19, 2026 Sunday, September 20, 2026" [disabled]:
+                                  - gridcell "Monday, September 14, 2026" [disabled]:
+                                    - button "Monday, September 14, 2026" [disabled]:
+                                      - generic: "14"
+                                  - gridcell "Tuesday, September 15, 2026" [disabled]:
+                                    - button "Tuesday, September 15, 2026" [disabled]:
+                                      - generic: "15"
+                                  - gridcell "Wednesday, September 16, 2026" [disabled]:
+                                    - button "Wednesday, September 16, 2026" [disabled]:
+                                      - generic: "16"
+                                  - gridcell "Thursday, September 17, 2026" [disabled]:
+                                    - button "Thursday, September 17, 2026" [disabled]:
+                                      - generic: "17"
+                                  - gridcell "Friday, September 18, 2026" [disabled]:
+                                    - button "Friday, September 18, 2026" [disabled]:
+                                      - generic: "18"
+                                  - gridcell "Saturday, September 19, 2026" [disabled] [selected]:
+                                    - button "Saturday, September 19, 2026" [disabled]:
+                                      - generic: "19"
+                                  - gridcell "Sunday, September 20, 2026" [disabled]:
+                                    - button "Sunday, September 20, 2026" [disabled]:
+                                      - generic: "20"
+                                - row "Monday, September 21, 2026 Tuesday, September 22, 2026 Wednesday, September 23, 2026 Thursday, September 24, 2026 Friday, September 25, 2026 Saturday, September 26, 2026 Sunday, September 27, 2026" [disabled]:
+                                  - gridcell "Monday, September 21, 2026" [disabled]:
+                                    - button "Monday, September 21, 2026" [disabled]:
+                                      - generic: "21"
+                                  - gridcell "Tuesday, September 22, 2026" [disabled]:
+                                    - button "Tuesday, September 22, 2026" [disabled]:
+                                      - generic: "22"
+                                  - gridcell "Wednesday, September 23, 2026" [disabled]:
+                                    - button "Wednesday, September 23, 2026" [disabled]:
+                                      - generic: "23"
+                                  - gridcell "Thursday, September 24, 2026" [disabled]:
+                                    - button "Thursday, September 24, 2026" [disabled]:
+                                      - generic: "24"
+                                  - gridcell "Friday, September 25, 2026" [disabled]:
+                                    - button "Friday, September 25, 2026" [disabled]:
+                                      - generic: "25"
+                                  - gridcell "Saturday, September 26, 2026" [disabled]:
+                                    - button "Saturday, September 26, 2026" [disabled]:
+                                      - generic: "26"
+                                  - gridcell "Sunday, September 27, 2026" [disabled]:
+                                    - button "Sunday, September 27, 2026" [disabled]:
+                                      - generic: "27"
+                                - row "Monday, September 28, 2026 Tuesday, September 29, 2026 Wednesday, September 30, 2026 Thursday, October 1, 2026 Friday, October 2, 2026 Saturday, October 3, 2026 Sunday, October 4, 2026" [disabled]:
+                                  - gridcell "Monday, September 28, 2026" [disabled]:
+                                    - button "Monday, September 28, 2026" [disabled]:
+                                      - generic: "28"
+                                  - gridcell "Tuesday, September 29, 2026" [disabled]:
+                                    - button "Tuesday, September 29, 2026" [disabled]:
+                                      - generic: "29"
+                                  - gridcell "Wednesday, September 30, 2026" [disabled]:
+                                    - button "Wednesday, September 30, 2026" [disabled]:
+                                      - generic: "30"
+                                  - gridcell "Thursday, October 1, 2026" [disabled]:
+                                    - button "Thursday, October 1, 2026" [disabled]:
+                                      - generic: "1"
+                                  - gridcell "Friday, October 2, 2026" [disabled]:
+                                    - button "Friday, October 2, 2026" [disabled]:
+                                      - generic: "2"
+                                  - gridcell "Saturday, October 3, 2026" [disabled]:
+                                    - button "Saturday, October 3, 2026" [disabled]:
+                                      - generic: "3"
+                                  - gridcell "Sunday, October 4, 2026" [disabled]:
+                                    - button "Sunday, October 4, 2026" [disabled]:
+                                      - generic: "4"
+                                - row "Monday, October 5, 2026 Tuesday, October 6, 2026 Wednesday, October 7, 2026 Thursday, October 8, 2026 Friday, October 9, 2026 Saturday, October 10, 2026 Sunday, October 11, 2026" [disabled]:
+                                  - gridcell "Monday, October 5, 2026" [disabled]:
+                                    - button "Monday, October 5, 2026" [disabled]:
+                                      - generic: "5"
+                                  - gridcell "Tuesday, October 6, 2026" [disabled]:
+                                    - button "Tuesday, October 6, 2026" [disabled]:
+                                      - generic: "6"
+                                  - gridcell "Wednesday, October 7, 2026" [disabled]:
+                                    - button "Wednesday, October 7, 2026" [disabled]:
+                                      - generic: "7"
+                                  - gridcell "Thursday, October 8, 2026" [disabled]:
+                                    - button "Thursday, October 8, 2026" [disabled]:
+                                      - generic: "8"
+                                  - gridcell "Friday, October 9, 2026" [disabled]:
+                                    - button "Friday, October 9, 2026" [disabled]:
+                                      - generic: "9"
+                                  - gridcell "Saturday, October 10, 2026" [disabled]:
+                                    - button "Saturday, October 10, 2026" [disabled]:
+                                      - generic: "10"
+                                  - gridcell "Sunday, October 11, 2026" [disabled]:
+                                    - button "Sunday, October 11, 2026" [disabled]:
+                                      - generic: "11"
+                          - generic:
+                            - heading "Event Date, September 2026" [level=2]
+                        - img "heart"
+                      - generic: Басталуы
+                      - generic: "17 : 30"
+                      - generic:
+                        - generic:
+                          - generic:
+                            - paragraph: "60"
+                            - paragraph: Күн
+                          - generic: "|"
+                          - generic:
+                            - paragraph: "23"
+                            - paragraph: Сағат
+                          - generic: "|"
+                          - generic:
+                            - paragraph: "33"
+                            - paragraph: Минут
+                          - generic: "|"
+                          - generic:
+                            - paragraph: "1"
+                            - paragraph: Секунд
+                      - generic:
+                        - alert "loading"
+                    - generic:
+                      - paragraph: "Той өтетін орын: Астана, ресторан \"Той Думан\", Мәңгілік Ел 29"
+                      - button "Карта арқылы ашу"
+                  - generic:
+                    - generic:
+                      - heading "Дресс-код" [level=3]
+                      - paragraph: Кешкі стиль / Cocktail
+                      - generic:
+                        - generic:
+                          - generic: Әйелдерге
+                          - generic: Ұзын кешкі көйлек
+                        - generic:
+                          - generic: Ерлерге
+                          - generic: Костюм, ақ жейде
+                    - generic:
+                      - heading "Бағдарлама" [level=3]
+                      - list:
+                        - listitem:
+                          - generic:
+                            - paragraph: 18:00
+                            - paragraph: Қонақтарды қарсы алу
+                        - listitem:
+                          - generic:
+                            - paragraph: 18:30
+                            - paragraph: Тойбастар
+                        - listitem:
+                          - generic:
+                            - paragraph: 19:00
+                            - paragraph: Сыңсу, ән-шашу
+                        - listitem:
+                          - generic:
+                            - paragraph: 19:30
+                            - paragraph: Ата-анасымен қоштасу
+                        - listitem:
+                          - generic:
+                            - paragraph: 20:00
+                            - paragraph: Қонақтарға арналған ас
+                        - listitem:
+                          - generic:
+                            - paragraph: 21:00
+                            - paragraph: Қызды шығарып салу
+                        - listitem:
+                          - generic:
+                            - paragraph: 21:30
+                            - paragraph: Сыйлықтар мен құттықтаулар
+                  - text: "* * * Ж Ж і і б б е е р р у у К е т т і"
+    - generic [ref=f5e106]:
+      - paragraph [ref=f5e107]: 2. Түсін таңдаңыз
+      - generic [ref=f5e108]:
+        - button "Elegant Gold" [ref=f5e109]
+        - button "Rose Gold Romance" [ref=f5e113]
+        - button "Kazakh Blue" [ref=f5e114]
+        - button "Copper Glow" [ref=f5e115]
+        - button "Garden Sage" [ref=f5e116]
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [active] [ref=f5e87]
+  - region "Notifications (F8)":
+    - list

@@ -1,0 +1,85 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e178]:
+      - paragraph [ref=f5e179]: 5 / 8
+      - heading "Музыка таңдау" [level=2] [ref=f5e180]
+    - generic [ref=f5e181]:
+      - paragraph [ref=f5e182]: Трек тізімінен музыка таңдаңыз
+      - generic [ref=f5e185]:
+        - generic [ref=f5e186]: Музыка
+        - generic [ref=f5e190]:
+          - generic [ref=f5e191]:
+            - button "Қыз ұзату" [ref=f5e192]
+            - button "Үйлену той" [ref=f5e194]
+            - button "Сүндет той" [ref=f5e196]
+            - button "Тұсау кесер" [ref=f5e198]
+            - button "Мерейтой" [ref=f5e200]
+            - button "Бесік той" [ref=f5e202]
+            - button "Құдалық" [ref=f5e204]
+          - textbox "Музыка" [ref=f5e207]:
+            - /placeholder: Музыка іздеу...
+          - generic [ref=f5e210] [cursor=pointer]:
+            - button [ref=f5e211]
+            - generic [ref=f5e213]: Дос Мұқасан - Аяулым
+          - generic [ref=f5e214] [cursor=pointer]:
+            - button [ref=f5e215]
+            - generic [ref=f5e217]: Дос Мұқасан - Сағындым сені
+          - generic [ref=f5e218] [cursor=pointer]:
+            - button [ref=f5e219]
+            - generic [ref=f5e221]: Дос Мұқасан - Қайдасың
+          - generic [ref=f5e222] [cursor=pointer]:
+            - button [ref=f5e223]
+            - generic [ref=f5e225]: Кайрат Нуртас - Алыстама
+          - generic [ref=f5e226] [cursor=pointer]:
+            - button [ref=f5e227]
+            - generic [ref=f5e229]: Кайрат Нуртас - Ата-анам
+          - generic [ref=f5e230] [cursor=pointer]:
+            - button [ref=f5e231]
+            - generic [ref=f5e233]: Жанар Дугалова - Аналар
+          - generic [ref=f5e234] [cursor=pointer]:
+            - button [ref=f5e235]
+            - generic [ref=f5e237]: Думан Ержанов - Анам
+          - generic [ref=f5e238] [cursor=pointer]:
+            - button [ref=f5e239]
+            - generic [ref=f5e241]: Думан Ержанов - Қоштасу
+          - generic [ref=f5e242] [cursor=pointer]:
+            - button [ref=f5e243]
+            - generic [ref=f5e245]: Думан Ержанов - Анам-ай
+          - generic [ref=f5e246] [cursor=pointer]:
+            - button [ref=f5e247]
+            - generic [ref=f5e249]: Нұрлан Абдуллин - Қоштасу
+          - generic [ref=f5e250] [cursor=pointer]:
+            - button [ref=f5e251]
+            - generic [ref=f5e253]: Нұрлан Абдуллин - Анашым
+          - generic [ref=f5e254] [cursor=pointer]:
+            - button [ref=f5e255]
+            - generic [ref=f5e257]: Нұрлан Абдуллин - Аналар
+          - generic [ref=f5e258] [cursor=pointer]:
+            - button [ref=f5e259]
+            - generic [ref=f5e261]: Молдир Ауелбекова - Апам
+          - generic [ref=f5e262] [cursor=pointer]:
+            - button [ref=f5e263]
+            - generic [ref=f5e265]: Молдир Ауелбекова - Анашым
+          - generic [ref=f5e266] [cursor=pointer]:
+            - button [ref=f5e267]
+            - generic [ref=f5e269]: Жолдасбек Әбдіханов - Аналар
+          - generic [ref=f5e270] [cursor=pointer]:
+            - button [ref=f5e271]
+            - generic [ref=f5e273]: Жолдасбек Әбдіханов - Апа
+          - generic [ref=f5e274] [cursor=pointer]:
+            - button [ref=f5e275]
+            - generic [ref=f5e277]: Зауреш - Апам
+          - generic [ref=f5e278] [cursor=pointer]:
+            - button [ref=f5e279]
+            - generic [ref=f5e281]: Kazybek Kuraish - Minezin korkem
+          - generic [ref=f5e282] [cursor=pointer]:
+            - button [ref=f5e283]
+            - generic [ref=f5e285]: Үкілі кәмшат
+          - generic [ref=f5e286] [cursor=pointer]:
+            - button [ref=f5e287]
+            - generic [ref=f5e289]: Thinking Out Loud
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [active] [ref=f5e87]
+  - region "Notifications (F8)":
+    - list
