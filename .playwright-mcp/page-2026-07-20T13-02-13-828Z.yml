@@ -1,0 +1,21 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e314]:
+      - paragraph [ref=f5e315]: 7 / 8
+      - heading "Галереяны өңдеу" [level=2] [ref=f5e316]
+    - generic [ref=f5e317]:
+      - paragraph [ref=f5e318]: Фотосуреттерді қосыңыз немесе жойыңыз
+      - generic [ref=f5e321]:
+        - generic [ref=f5e323]:
+          - generic [ref=f5e324]: Фотосуреттер
+          - generic [ref=f5e325]: "Ұсынылатын өлшем: 800x1200px"
+        - generic [ref=f5e329] [cursor=pointer]:
+          - generic [ref=f5e331]:
+            - paragraph [ref=f5e332]: Файлдарды осында салыңыз немесе таңдау үшін басыңыз
+            - paragraph [ref=f5e333]: Максимум 10 файл, 200 MB дейін
+          - button "Қосу" [ref=f5e334]
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [active] [ref=f5e87]
+  - region "Notifications (F8)":
+    - list

@@ -87,3 +87,5 @@ npm run dev
 ## Лицензия
 
 Proprietary — Shaqyrtu / abmco.kz
+
+sk-zy-51750613b120cc4fc6eb89091eb58f28c8864a99051fed9e

@@ -1,0 +1,117 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e6]:
+    - generic [ref=f4e7]:
+      - link [ref=f4e8] [cursor=pointer]:
+        - /url: /
+        - img "Shaqyrtu Logo" [ref=f4e9]
+        - paragraph [ref=f4e10]: shaqyrtu.kz
+      - generic [ref=f4e11]:
+        - tablist [ref=f4e13]:
+          - tab "KZ" [selected] [ref=f4e15]
+          - tab "RU" [ref=f4e17]
+        - button "Switch to dark mode" [ref=f4e19]
+    - generic [ref=f4e21]:
+      - generic [ref=f4e22]:
+        - generic [ref=f4e24]:
+          - heading "Дизайнды таңда, мәтінді қос, қонақтарға жібер." [level=1] [ref=f4e25]
+          - paragraph [ref=f4e26]: бар болғаны 3 минут алады!
+          - list [ref=f4e27]:
+            - listitem [ref=f4e28]: ✔ 3 минутта шақырту жаса
+            - listitem [ref=f4e29]: ✔ Фото және музыканы өзің қос
+            - listitem [ref=f4e30]: ✔ Қонақтарға жібер!
+            - listitem [ref=f4e31]: ✔ Өте оңай!
+            - listitem [ref=f4e32]: ✔ Телефон арқылы жасау
+          - generic [ref=f4e33]: демеуші арқылы 1000 ₸-ден бастап
+          - generic [ref=f4e37]:
+            - generic [ref=f4e38]: Жеке сілтеме — тегін
+            - generic [ref=f4e39]: shaqyrtu.kz/i/jessia-john
+        - region [ref=f4e40]:
+          - generic [ref=f4e42]:
+            - heading "Дизайндар" [level=2] [ref=f4e43]
+            - paragraph [ref=f4e44]: Әр стильді жанды нұсқада көр
+          - generic [ref=f4e45]:
+            - button "Күндізгі жарық" [ref=f4e46]:
+              - generic [ref=f4e50]: Демо көру
+            - button "Алтын (премиум)" [ref=f4e52]:
+              - generic [ref=f4e56]: Демо көру
+            - button "Гүлді" [ref=f4e58]:
+              - generic [ref=f4e62]: Демо көру
+            - button "Қазақ өрнегі" [ref=f4e64]:
+              - generic [ref=f4e68]: Демо көру
+        - button "Партнёрлік бағдарлама" [ref=f4e70]:
+          - generic [ref=f4e73]:
+            - paragraph [ref=f4e74]: Табыс
+            - paragraph [ref=f4e75]: Промокодпен ақша табыңыз
+            - paragraph [ref=f4e76]: 30% әр активациядан
+          - generic [ref=f4e77]: Толығырақ
+      - generic [ref=f4e80]:
+        - link "Қыз ұзату Қыз ұзату 5 үлгі" [ref=f4e81] [cursor=pointer]:
+          - /url: /new_card_config?template=48&theme=floral
+          - img "Қыз ұзату" [ref=f4e82]
+          - generic [ref=f4e83]:
+            - heading "Қыз ұзату" [level=4] [ref=f4e84]
+            - generic [ref=f4e85]: 5 үлгі
+        - link "Үйлену той Үйлену той 5 үлгі" [ref=f4e89] [cursor=pointer]:
+          - /url: /new_card_config?template=6&theme=floral
+          - img "Үйлену той" [ref=f4e90]
+          - generic [ref=f4e91]:
+            - heading "Үйлену той" [level=4] [ref=f4e92]
+            - generic [ref=f4e93]: 5 үлгі
+        - link "Тұсаукесер Тұсаукесер 5 үлгі" [ref=f4e97] [cursor=pointer]:
+          - /url: /new_card_config?template=11&theme=floral
+          - img "Тұсаукесер" [ref=f4e98]
+          - generic [ref=f4e99]:
+            - heading "Тұсаукесер" [level=4] [ref=f4e100]
+            - generic [ref=f4e101]: 5 үлгі
+        - link "Бесік той Бесік той 5 үлгі" [ref=f4e105] [cursor=pointer]:
+          - /url: /new_card_config?template=26&theme=floral
+          - img "Бесік той" [ref=f4e106]
+          - generic [ref=f4e107]:
+            - heading "Бесік той" [level=4] [ref=f4e108]
+            - generic [ref=f4e109]: 5 үлгі
+        - link "Беташар Беташар 5 үлгі" [ref=f4e113] [cursor=pointer]:
+          - /url: /new_card_config?template=31&theme=floral
+          - img "Беташар" [ref=f4e114]
+          - generic [ref=f4e115]:
+            - heading "Беташар" [level=4] [ref=f4e116]
+            - generic [ref=f4e117]: 5 үлгі
+        - link "Құдалық Құдалық 5 үлгі" [ref=f4e121] [cursor=pointer]:
+          - /url: /new_card_config?template=36&theme=floral
+          - img "Құдалық" [ref=f4e122]
+          - generic [ref=f4e123]:
+            - heading "Құдалық" [level=4] [ref=f4e124]
+            - generic [ref=f4e125]: 5 үлгі
+        - link "Асқа шақыру Асқа шақыру 5 үлгі" [ref=f4e129] [cursor=pointer]:
+          - /url: /new_card_config?template=41&theme=floral
+          - img "Асқа шақыру" [ref=f4e130]
+          - generic [ref=f4e131]:
+            - heading "Асқа шақыру" [level=4] [ref=f4e132]
+            - generic [ref=f4e133]: 5 үлгі
+        - link "Сүндет той 5 үлгі" [ref=f4e137] [cursor=pointer]:
+          - /url: /new_card_config?template=16&theme=floral
+          - generic [ref=f4e139]:
+            - heading "Сүндет той" [level=4] [ref=f4e140]
+            - generic [ref=f4e141]: 5 үлгі
+        - link "Мерей той 5 үлгі" [ref=f4e145] [cursor=pointer]:
+          - /url: /new_card_config?template=21&theme=floral
+          - generic [ref=f4e147]:
+            - heading "Мерей той" [level=4] [ref=f4e148]
+            - generic [ref=f4e149]: 5 үлгі
+    - generic [ref=f4e153]:
+      - link "«Гүлді» дизайны туралы оқу" [ref=f4e154] [cursor=pointer]:
+        - /url: /theme/floral
+      - navigation [ref=f4e155]:
+        - link "Блог" [ref=f4e156] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=f4e157]:
+        - link "жасаған abmco.kz" [ref=f4e158] [cursor=pointer]:
+          - /url: https://abmco.kz
+          - generic [ref=f4e159]: жасаған
+          - generic [ref=f4e160]: abmco.kz
+        - generic [ref=f4e161]: ·
+        - link "жазылыңыз" [ref=f4e162] [cursor=pointer]:
+          - /url: https://www.instagram.com/shaqyrtu.service/
+      - link "Дербес деректерді өңдеу туралы келісім" [ref=f4e165] [cursor=pointer]:
+        - /url: /terms
+  - region "Notifications (F8)":
+    - list

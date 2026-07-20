@@ -1,0 +1,25 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e145]:
+      - paragraph [ref=f5e146]: 4 / 8
+      - heading "Күні мен орны" [level=2] [ref=f5e147]
+    - generic [ref=f5e148]:
+      - paragraph [ref=f5e149]: Қалғанын кейін өңдегіште толтыруға болады
+      - generic [ref=f5e151]:
+        - generic [ref=f5e152]:
+          - generic [ref=f5e153]: Іс-шара күні*
+          - button "19 сент. 2026 г." [ref=f5e158]
+        - generic [ref=f5e160]:
+          - generic [ref=f5e161]: Іс-шара уақыты*
+          - textbox "Іс-шара уақыты*" [active] [ref=f5e167]: 17:30
+        - generic [ref=f5e168]:
+          - generic [ref=f5e169]: Мекенжай
+          - textbox "Мекенжай" [ref=f5e174]:
+            - /placeholder: Мекенжайды енгізіңіз
+            - text: Астана, ресторан "Той Думан", Мәңгілік Ел 29
+      - button "Басқа" [ref=f5e175]
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [ref=f5e87]
+  - region "Notifications (F8)":
+    - list

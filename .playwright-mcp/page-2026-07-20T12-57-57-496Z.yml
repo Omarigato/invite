@@ -1,0 +1,23 @@
+- generic [ref=f5e1]:
+  - generic [ref=f5e4]:
+    - generic [ref=f5e120]:
+      - paragraph [ref=f5e121]: 3 / 8
+      - heading "Аттар мен мәтіндер" [level=2] [ref=f5e122]
+    - generic [ref=f5e124]:
+      - paragraph [ref=f5e125]: Қалғанын кейін өңдегіште толтыруға болады
+      - generic [ref=f5e127]:
+        - generic [ref=f5e128]:
+          - generic [ref=f5e129]: Іс-шара кейіпкерінің аты
+          - textbox "Іс-шара кейіпкерінің аты" [active] [ref=f5e134]:
+            - /placeholder: Анель
+            - text: Томирис
+        - generic [ref=f5e135]:
+          - generic [ref=f5e136]: Іс-шара ұйымдастырушылары
+          - textbox "Іс-шара ұйымдастырушылары" [ref=f5e141]:
+            - /placeholder: Асқар - Гүлнәр
+      - button "Басқа" [ref=f5e142]
+    - generic [ref=f5e39]:
+      - button [ref=f5e85]
+      - button "Келесі" [ref=f5e87]
+  - region "Notifications (F8)":
+    - list

@@ -1,0 +1,299 @@
+- generic:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic [ref=f5e379]:
+            - button [ref=f5e883]:
+              - generic [ref=f5e382]: Артқа
+            - paragraph [ref=f5e383]: Шақыруды қарап, баптаңыз
+            - button [ref=f5e884]:
+              - generic [ref=f5e386]: Дизайн
+          - generic:
+            - generic:
+              - tablist:
+                - tab:
+                  - generic: Көру
+                - tab [selected]:
+                  - generic: Өңдеу
+            - generic:
+              - generic:
+                - button:
+                  - generic: Сурет жүктеу
+                - generic:
+                  - button:
+                    - generic: Музыка таңдау
+                  - button
+            - generic:
+              - generic:
+                - generic:
+                  - button:
+                    - generic: Өзгерту
+                  - text: Ардақты ағайын!
+              - generic:
+                - button:
+                  - generic: Өзгерту
+                - generic: Қызымыздың ұзату тойына қош келдіңіздер
+                - generic: Томирис
+              - button:
+                - generic: Өзгерту
+              - generic:
+                - button:
+                  - generic: Сурет жүктеу
+                - generic:
+                  - button
+                  - button
+                  - button
+            - generic:
+              - generic:
+                - button:
+                  - generic: Күнді белгілеу
+                - generic: Қыркүйек
+                - generic:
+                  - generic:
+                    - generic: 19.09.2026
+                    - generic:
+                      - grid [disabled]:
+                        - rowgroup:
+                          - row [disabled]:
+                            - columnheader [disabled]: Дс
+                            - columnheader [disabled]: Сс
+                            - columnheader [disabled]: Ср
+                            - columnheader [disabled]: Бс
+                            - columnheader [disabled]: Жм
+                            - columnheader [disabled]: Сб
+                            - columnheader [disabled]: Жс
+                        - rowgroup:
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "31"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "1"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "2"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "3"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "4"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "5"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "6"
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "7"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "8"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "9"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "10"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "11"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "12"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "13"
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "14"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "15"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "16"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "17"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "18"
+                            - gridcell [disabled] [selected]:
+                              - button [disabled]:
+                                - generic: "19"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "20"
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "21"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "22"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "23"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "24"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "25"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "26"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "27"
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "28"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "29"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "30"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "1"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "2"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "3"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "4"
+                          - row [disabled]:
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "5"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "6"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "7"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "8"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "9"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "10"
+                            - gridcell [disabled]:
+                              - button [disabled]:
+                                - generic: "11"
+                    - generic:
+                      - heading [level=2]: Event Date, September 2026
+                - generic: Басталуы
+                - generic: "17 : 30"
+                - generic:
+                  - generic:
+                    - generic:
+                      - paragraph: "60"
+                      - paragraph: Күн
+                    - generic: "|"
+                    - generic:
+                      - paragraph: "23"
+                      - paragraph: Сағат
+                    - generic: "|"
+                    - generic:
+                      - paragraph: "18"
+                      - paragraph: Минут
+                    - generic: "|"
+                    - generic:
+                      - paragraph: "18"
+                      - paragraph: Секунд
+              - generic:
+                - button:
+                  - generic: Мекенжай көрсету
+                - paragraph: "Той өтетін орын: Астана, ресторан \"Той Думан\", Мәңгілік Ел 29"
+                - button:
+                  - generic: Карта арқылы ашу
+              - generic:
+                - button:
+                  - generic: Өзгерту
+                - paragraph: Той иелері
+                - paragraph:
+                  - strong: Асқар - Гүлнәр
+            - generic:
+              - generic:
+                - button:
+                  - generic: Дресс-код қосу
+                - heading [level=3]: Дресс-код
+                - paragraph: Қонақтарға қандай киім кигенін жазыңыз
+              - generic:
+                - button:
+                  - generic: Бағдарлама қосу
+                - heading [level=3]: Бағдарлама
+                - paragraph: Бағдарлама тармақтарын қосыңыз
+            - generic:
+              - generic:
+                - button:
+                  - generic: Баптау
+                - heading [level=3]: Сіз келеcіз бе?
+                - generic:
+                  - generic:
+                    - generic: Есіміңіз*
+                    - generic:
+                      - generic:
+                        - textbox [invalid]:
+                          - /placeholder: Есіміңіз
+                      - generic: Аты міндетті
+                  - generic:
+                    - generic: Телефон*
+                    - generic:
+                      - generic:
+                        - textbox [invalid]:
+                          - /placeholder: Телефон
+                      - generic: Телефон міндетті
+                  - generic:
+                    - generic: Қанша адам келесіздер?*
+                    - generic:
+                      - generic:
+                        - button
+                        - generic:
+                          - spinbutton: "3"
+                        - button [disabled]
+                - button:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: Ж Ж Ж
+                        - generic: і і і
+                        - generic: б б б
+                        - generic: е е е
+                        - generic: р р р
+                        - generic: у у у
+                      - generic:
+                        - generic: К К
+                        - generic: е е
+                        - generic: т т
+                        - generic: т т
+                        - generic: і і
+                - heading [level=3]: Тойымыздың қадірлі қонақтары болыңыз!
+          - generic:
+            - generic:
+              - button: Сақтау
+  - dialog [active] [ref=f5e886]:
+    - generic [ref=f5e887]:
+      - generic [ref=f5e888]:
+        - heading "Шақыртуды белсендіру" [level=3] [ref=f5e891]
+        - button "Жабу" [ref=f5e892]
+      - paragraph [ref=f5e911]: Промокодыңыз бар ма?
+      - generic [ref=f5e912]:
+        - button "Иә, промокодым бар" [ref=f5e913]
+        - button "Жоқ, төлеуге өту" [ref=f5e914]

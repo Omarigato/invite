@@ -1,0 +1,117 @@
+- generic [ref=e1]:
+  - generic [ref=e6]:
+    - generic [ref=e7]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /
+        - img "Shaqyrtu Logo" [ref=e9]
+        - paragraph [ref=e10]: shaqyrtu.kz
+      - generic [ref=e11]:
+        - tablist [ref=e15]:
+          - tab "KZ" [ref=e17]
+          - tab "RU" [active] [selected] [ref=e19]
+        - button "Switch to dark mode" [ref=e164]
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e167]:
+          - heading "Выберите дизайн, добавьте текст и отправьте гостям." [level=1] [ref=e168]
+          - paragraph [ref=e169]: Сделайте онлайн пригласительные красивыми и удобными за 5 минут.
+          - list [ref=e170]:
+            - listitem [ref=e171]: ✔ Создайте приглашение за 3 минуты
+            - listitem [ref=e172]: ✔ Добавьте фото и музыку сами
+            - listitem [ref=e173]: ✔ Отправьте гостям!
+            - listitem [ref=e174]: ✔ Очень просто!
+            - listitem [ref=e175]: ✔ Создание с телефона
+          - generic [ref=e176]: от 1000 ₸ со спонсором
+          - generic [ref=e180]:
+            - generic [ref=e181]: Личная ссылка — бесплатно
+            - generic [ref=e182]: shaqyrtu.kz/i/jessia-john
+        - region [ref=e183]:
+          - generic [ref=e33]:
+            - heading "Дизайны" [level=2] [ref=e184]
+            - paragraph [ref=e35]: Посмотрите каждый стиль в движении
+          - generic [ref=e36]:
+            - button "Дневной свет" [ref=e185]:
+              - generic [ref=e41]: Смотреть демо
+            - button "Алтын (премиум)" [ref=e43]:
+              - generic [ref=e47]: Смотреть демо
+            - button "Цветочный" [ref=e186]:
+              - generic [ref=e53]: Смотреть демо
+            - button "Казахский орнамент" [ref=e187]:
+              - generic [ref=e59]: Смотреть демо
+        - button "Партнёрская программа" [ref=e188]:
+          - generic [ref=e191]:
+            - paragraph [ref=e192]: Доход
+            - paragraph [ref=e193]: Зарабатывайте с промокодом
+            - paragraph [ref=e194]: 30% с каждой активации
+          - generic [ref=e195]: Подробнее
+      - generic [ref=e67]:
+        - link "Қыз ұзату Қыз ұзату 5 шаблонов" [ref=e197] [cursor=pointer]:
+          - /url: /new_card_config?template=48&theme=floral
+          - img "Қыз ұзату" [ref=e69]
+          - generic [ref=e70]:
+            - heading "Қыз ұзату" [level=4] [ref=e71]
+            - generic [ref=e72]: 5 шаблонов
+        - link "Свадьба Свадьба 5 шаблонов" [ref=e198] [cursor=pointer]:
+          - /url: /new_card_config?template=6&theme=floral
+          - img "Свадьба" [ref=e199]
+          - generic [ref=e78]:
+            - heading "Свадьба" [level=4] [ref=e200]
+            - generic [ref=e80]: 5 шаблонов
+        - link "Тұсаукесер Тұсаукесер 5 шаблонов" [ref=e201] [cursor=pointer]:
+          - /url: /new_card_config?template=11&theme=floral
+          - img "Тұсаукесер" [ref=e85]
+          - generic [ref=e86]:
+            - heading "Тұсаукесер" [level=4] [ref=e87]
+            - generic [ref=e88]: 5 шаблонов
+        - link "Бесік той Бесік той 5 шаблонов" [ref=e202] [cursor=pointer]:
+          - /url: /new_card_config?template=26&theme=floral
+          - img "Бесік той" [ref=e93]
+          - generic [ref=e94]:
+            - heading "Бесік той" [level=4] [ref=e95]
+            - generic [ref=e96]: 5 шаблонов
+        - link "Беташар Беташар 5 шаблонов" [ref=e203] [cursor=pointer]:
+          - /url: /new_card_config?template=31&theme=floral
+          - img "Беташар" [ref=e101]
+          - generic [ref=e102]:
+            - heading "Беташар" [level=4] [ref=e103]
+            - generic [ref=e104]: 5 шаблонов
+        - link "Құдалық Құдалық 5 шаблонов" [ref=e204] [cursor=pointer]:
+          - /url: /new_card_config?template=36&theme=floral
+          - img "Құдалық" [ref=e109]
+          - generic [ref=e110]:
+            - heading "Құдалық" [level=4] [ref=e111]
+            - generic [ref=e112]: 5 шаблонов
+        - link "Асқа шақыру Асқа шақыру 5 шаблонов" [ref=e205] [cursor=pointer]:
+          - /url: /new_card_config?template=41&theme=floral
+          - img "Асқа шақыру" [ref=e117]
+          - generic [ref=e118]:
+            - heading "Асқа шақыру" [level=4] [ref=e119]
+            - generic [ref=e120]: 5 шаблонов
+        - link "Сүндет той 5 шаблонов" [ref=e206] [cursor=pointer]:
+          - /url: /new_card_config?template=16&theme=floral
+          - generic [ref=e126]:
+            - heading "Сүндет той" [level=4] [ref=e127]
+            - generic [ref=e128]: 5 шаблонов
+        - link "Мерейтой 5 шаблонов" [ref=e207] [cursor=pointer]:
+          - /url: /new_card_config?template=21&theme=floral
+          - generic [ref=e134]:
+            - heading "Мерейтой" [level=4] [ref=e208]
+            - generic [ref=e136]: 5 шаблонов
+    - generic [ref=e149]:
+      - link "О дизайне «Гүлді»" [ref=e209] [cursor=pointer]:
+        - /url: /theme/floral
+      - navigation [ref=e151]:
+        - link "Блог" [ref=e152] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=e153]:
+        - link "сделано в abmco.kz" [ref=e210] [cursor=pointer]:
+          - /url: https://abmco.kz
+          - generic [ref=e155]: сделано в
+          - generic [ref=e156]: abmco.kz
+        - generic [ref=e157]: ·
+        - link "подписывайтесь" [ref=e211] [cursor=pointer]:
+          - /url: https://www.instagram.com/shaqyrtu.service/
+      - link "Соглашение об обработке персональных данных" [ref=e212] [cursor=pointer]:
+        - /url: /terms
+  - region "Notifications (F8)":
+    - list

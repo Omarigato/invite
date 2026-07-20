@@ -1,0 +1,273 @@
+- generic [active] [ref=f5e1]:
+  - generic [ref=f5e2]:
+    - generic [ref=f5e378]:
+      - generic [ref=f5e379]:
+        - button "Артқа" [ref=f5e941]
+        - paragraph [ref=f5e383]: Шақыруды қарап, баптаңыз
+        - button "Дизайн" [ref=f5e942]
+      - generic [ref=f5e387]:
+        - tablist [ref=f5e389]:
+          - tab "Көру" [ref=f5e391]
+          - tab "Өңдеу" [selected] [ref=f5e394]
+        - generic [ref=f5e398] [cursor=pointer]:
+          - button "Сурет жүктеу" [ref=f5e399]
+          - img "Шақырту" [ref=f5e402]
+          - generic [ref=f5e404]:
+            - button "Музыка таңдау" [ref=f5e405]
+            - button [ref=f5e421]
+        - generic [ref=f5e423]:
+          - generic [ref=f5e425]:
+            - button "Өзгерту" [ref=f5e426] [cursor=pointer]
+            - text: Ардақты ағайын!
+          - generic [ref=f5e429]:
+            - button "Өзгерту" [ref=f5e430] [cursor=pointer]
+            - generic [ref=f5e433]: Қызымыздың ұзату тойына қош келдіңіздер
+            - generic [ref=f5e434]: Томирис
+          - generic:
+            - generic:
+              - button "Өзгерту" [ref=f5e435] [cursor=pointer]
+              - paragraph
+          - generic [ref=f5e442] [cursor=pointer]:
+            - button "Сурет жүктеу" [ref=f5e443]
+            - generic [ref=f5e456]:
+              - button "Go to image 1" [ref=f5e457]
+              - button "Go to image 2" [ref=f5e458]
+              - button "Go to image 3" [ref=f5e459]
+        - generic [ref=f5e460]:
+          - generic [ref=f5e461] [cursor=pointer]:
+            - button "Күнді белгілеу" [ref=f5e462]
+            - generic [ref=f5e469]: Қыркүйек
+            - generic [ref=f5e470]:
+              - generic "Event Date, September 2026" [ref=f5e471]:
+                - generic [ref=f5e472]: 19.09.2026
+                - grid [disabled] [ref=f5e476]:
+                  - rowgroup [ref=f5e477]:
+                    - row [disabled] [ref=f5e478]:
+                      - columnheader [disabled] [ref=f5e479]: Дс
+                      - columnheader [disabled] [ref=f5e480]: Сс
+                      - columnheader [disabled] [ref=f5e481]: Ср
+                      - columnheader [disabled] [ref=f5e482]: Бс
+                      - columnheader [disabled] [ref=f5e483]: Жм
+                      - columnheader [disabled] [ref=f5e484]: Сб
+                      - columnheader [disabled] [ref=f5e485]: Жс
+                  - rowgroup [ref=f5e486]:
+                    - row [disabled] [ref=f5e487]:
+                      - gridcell [disabled] [ref=f5e488]:
+                        - button "Monday, August 31, 2026" [disabled] [ref=f5e489]:
+                          - generic [ref=f5e490]: "31"
+                      - gridcell [disabled] [ref=f5e491]:
+                        - button "Tuesday, September 1, 2026" [disabled] [ref=f5e492]:
+                          - generic [ref=f5e493]: "1"
+                      - gridcell [disabled] [ref=f5e494]:
+                        - button "Wednesday, September 2, 2026" [disabled] [ref=f5e495]:
+                          - generic [ref=f5e496]: "2"
+                      - gridcell [disabled] [ref=f5e497]:
+                        - button "Thursday, September 3, 2026" [disabled] [ref=f5e498]:
+                          - generic [ref=f5e499]: "3"
+                      - gridcell [disabled] [ref=f5e500]:
+                        - button "Friday, September 4, 2026" [disabled] [ref=f5e501]:
+                          - generic [ref=f5e502]: "4"
+                      - gridcell [disabled] [ref=f5e503]:
+                        - button "Saturday, September 5, 2026" [disabled] [ref=f5e504]:
+                          - generic [ref=f5e505]: "5"
+                      - gridcell [disabled] [ref=f5e506]:
+                        - button "Sunday, September 6, 2026" [disabled] [ref=f5e507]:
+                          - generic [ref=f5e508]: "6"
+                    - row [disabled] [ref=f5e509]:
+                      - gridcell [disabled] [ref=f5e510]:
+                        - button "Monday, September 7, 2026" [disabled] [ref=f5e511]:
+                          - generic [ref=f5e512]: "7"
+                      - gridcell [disabled] [ref=f5e513]:
+                        - button "Tuesday, September 8, 2026" [disabled] [ref=f5e514]:
+                          - generic [ref=f5e515]: "8"
+                      - gridcell [disabled] [ref=f5e516]:
+                        - button "Wednesday, September 9, 2026" [disabled] [ref=f5e517]:
+                          - generic [ref=f5e518]: "9"
+                      - gridcell [disabled] [ref=f5e519]:
+                        - button "Thursday, September 10, 2026" [disabled] [ref=f5e520]:
+                          - generic [ref=f5e521]: "10"
+                      - gridcell [disabled] [ref=f5e522]:
+                        - button "Friday, September 11, 2026" [disabled] [ref=f5e523]:
+                          - generic [ref=f5e524]: "11"
+                      - gridcell [disabled] [ref=f5e525]:
+                        - button "Saturday, September 12, 2026" [disabled] [ref=f5e526]:
+                          - generic [ref=f5e527]: "12"
+                      - gridcell [disabled] [ref=f5e528]:
+                        - button "Sunday, September 13, 2026" [disabled] [ref=f5e529]:
+                          - generic [ref=f5e530]: "13"
+                    - row [disabled] [ref=f5e531]:
+                      - gridcell [disabled] [ref=f5e532]:
+                        - button "Monday, September 14, 2026" [disabled] [ref=f5e533]:
+                          - generic [ref=f5e534]: "14"
+                      - gridcell [disabled] [ref=f5e535]:
+                        - button "Tuesday, September 15, 2026" [disabled] [ref=f5e536]:
+                          - generic [ref=f5e537]: "15"
+                      - gridcell [disabled] [ref=f5e538]:
+                        - button "Wednesday, September 16, 2026" [disabled] [ref=f5e539]:
+                          - generic [ref=f5e540]: "16"
+                      - gridcell [disabled] [ref=f5e541]:
+                        - button "Thursday, September 17, 2026" [disabled] [ref=f5e542]:
+                          - generic [ref=f5e543]: "17"
+                      - gridcell [disabled] [ref=f5e544]:
+                        - button "Friday, September 18, 2026" [disabled] [ref=f5e545]:
+                          - generic [ref=f5e546]: "18"
+                      - gridcell [disabled] [selected] [ref=f5e547]:
+                        - button "Saturday, September 19, 2026" [disabled] [ref=f5e548]:
+                          - generic [ref=f5e549]: "19"
+                      - gridcell [disabled] [ref=f5e550]:
+                        - button "Sunday, September 20, 2026" [disabled] [ref=f5e551]:
+                          - generic [ref=f5e552]: "20"
+                    - row [disabled] [ref=f5e553]:
+                      - gridcell [disabled] [ref=f5e554]:
+                        - button "Monday, September 21, 2026" [disabled] [ref=f5e555]:
+                          - generic [ref=f5e556]: "21"
+                      - gridcell [disabled] [ref=f5e557]:
+                        - button "Tuesday, September 22, 2026" [disabled] [ref=f5e558]:
+                          - generic [ref=f5e559]: "22"
+                      - gridcell [disabled] [ref=f5e560]:
+                        - button "Wednesday, September 23, 2026" [disabled] [ref=f5e561]:
+                          - generic [ref=f5e562]: "23"
+                      - gridcell [disabled] [ref=f5e563]:
+                        - button "Thursday, September 24, 2026" [disabled] [ref=f5e564]:
+                          - generic [ref=f5e565]: "24"
+                      - gridcell [disabled] [ref=f5e566]:
+                        - button "Friday, September 25, 2026" [disabled] [ref=f5e567]:
+                          - generic [ref=f5e568]: "25"
+                      - gridcell [disabled] [ref=f5e569]:
+                        - button "Saturday, September 26, 2026" [disabled] [ref=f5e570]:
+                          - generic [ref=f5e571]: "26"
+                      - gridcell [disabled] [ref=f5e572]:
+                        - button "Sunday, September 27, 2026" [disabled] [ref=f5e573]:
+                          - generic [ref=f5e574]: "27"
+                    - row [disabled] [ref=f5e575]:
+                      - gridcell [disabled] [ref=f5e576]:
+                        - button "Monday, September 28, 2026" [disabled] [ref=f5e577]:
+                          - generic [ref=f5e578]: "28"
+                      - gridcell [disabled] [ref=f5e579]:
+                        - button "Tuesday, September 29, 2026" [disabled] [ref=f5e580]:
+                          - generic [ref=f5e581]: "29"
+                      - gridcell [disabled] [ref=f5e582]:
+                        - button "Wednesday, September 30, 2026" [disabled] [ref=f5e583]:
+                          - generic [ref=f5e584]: "30"
+                      - gridcell [disabled] [ref=f5e585]:
+                        - button "Thursday, October 1, 2026" [disabled] [ref=f5e586]:
+                          - generic [ref=f5e587]: "1"
+                      - gridcell [disabled] [ref=f5e588]:
+                        - button "Friday, October 2, 2026" [disabled] [ref=f5e589]:
+                          - generic [ref=f5e590]: "2"
+                      - gridcell [disabled] [ref=f5e591]:
+                        - button "Saturday, October 3, 2026" [disabled] [ref=f5e592]:
+                          - generic [ref=f5e593]: "3"
+                      - gridcell [disabled] [ref=f5e594]:
+                        - button "Sunday, October 4, 2026" [disabled] [ref=f5e595]:
+                          - generic [ref=f5e596]: "4"
+                    - row [disabled] [ref=f5e597]:
+                      - gridcell [disabled] [ref=f5e598]:
+                        - button "Monday, October 5, 2026" [disabled] [ref=f5e599]:
+                          - generic [ref=f5e600]: "5"
+                      - gridcell [disabled] [ref=f5e601]:
+                        - button "Tuesday, October 6, 2026" [disabled] [ref=f5e602]:
+                          - generic [ref=f5e603]: "6"
+                      - gridcell [disabled] [ref=f5e604]:
+                        - button "Wednesday, October 7, 2026" [disabled] [ref=f5e605]:
+                          - generic [ref=f5e606]: "7"
+                      - gridcell [disabled] [ref=f5e607]:
+                        - button "Thursday, October 8, 2026" [disabled] [ref=f5e608]:
+                          - generic [ref=f5e609]: "8"
+                      - gridcell [disabled] [ref=f5e610]:
+                        - button "Friday, October 9, 2026" [disabled] [ref=f5e611]:
+                          - generic [ref=f5e612]: "9"
+                      - gridcell [disabled] [ref=f5e613]:
+                        - button "Saturday, October 10, 2026" [disabled] [ref=f5e614]:
+                          - generic [ref=f5e615]: "10"
+                      - gridcell [disabled] [ref=f5e616]:
+                        - button "Sunday, October 11, 2026" [disabled] [ref=f5e617]:
+                          - generic [ref=f5e618]: "11"
+                - heading "Event Date, September 2026" [level=2] [ref=f5e620]
+              - img "heart"
+            - generic [ref=f5e621]: Басталуы
+            - generic [ref=f5e622]: "17 : 30"
+            - generic [ref=f5e624]:
+              - generic [ref=f5e625]:
+                - paragraph [ref=f5e626]: "60"
+                - paragraph [ref=f5e627]: Күн
+              - generic [ref=f5e628]: "|"
+              - generic [ref=f5e629]:
+                - paragraph [ref=f5e630]: "23"
+                - paragraph [ref=f5e631]: Сағат
+              - generic [ref=f5e632]: "|"
+              - generic [ref=f5e633]:
+                - paragraph [ref=f5e634]: "14"
+                - paragraph [ref=f5e635]: Минут
+              - generic [ref=f5e636]: "|"
+              - generic [ref=f5e637]:
+                - paragraph [ref=f5e638]: "2"
+                - paragraph [ref=f5e639]: Секунд
+          - generic [ref=f5e644]:
+            - button "Мекенжай көрсету" [ref=f5e645] [cursor=pointer]
+            - paragraph [ref=f5e648]: "Той өтетін орын: Астана, ресторан \"Той Думан\", Мәңгілік Ел 29"
+            - button "Карта арқылы ашу" [ref=f5e649]
+          - generic [ref=f5e652]:
+            - button "Өзгерту" [ref=f5e653] [cursor=pointer]
+            - paragraph [ref=f5e685]: Той иелері
+            - paragraph [ref=f5e686]:
+              - strong [ref=f5e687]: Асқар - Гүлнәр
+        - generic [ref=f5e688]:
+          - generic [ref=f5e689]:
+            - button "Дресс-код қосу" [ref=f5e690] [cursor=pointer]
+            - heading "Дресс-код" [level=3] [ref=f5e694]
+            - paragraph [ref=f5e695]: Қонақтарға қандай киім кигенін жазыңыз
+          - generic [ref=f5e696]:
+            - button "Бағдарлама қосу" [ref=f5e697] [cursor=pointer]
+            - heading "Бағдарлама" [level=3] [ref=f5e700]
+            - paragraph [ref=f5e701]: Бағдарлама тармақтарын қосыңыз
+        - generic [ref=f5e703]:
+          - button "Баптау" [ref=f5e704] [cursor=pointer]
+          - heading "Сіз келеcіз бе?" [level=3] [ref=f5e707]
+          - generic [ref=f5e708]:
+            - generic [ref=f5e709]:
+              - generic [ref=f5e710]: Есіміңіз*
+              - generic [ref=f5e713]:
+                - textbox "Есіміңіз*" [invalid] [ref=f5e715]:
+                  - /placeholder: Есіміңіз
+                - generic [ref=f5e881]: Аты міндетті
+            - generic [ref=f5e716]:
+              - generic [ref=f5e717]: Телефон*
+              - generic [ref=f5e720]:
+                - textbox "Телефон*" [invalid] [ref=f5e722]:
+                  - /placeholder: Телефон
+                - generic [ref=f5e882]: Телефон міндетті
+            - generic [ref=f5e723]:
+              - generic [ref=f5e724]: Қанша адам келесіздер?*
+              - generic [ref=f5e728]:
+                - button [ref=f5e729]
+                - spinbutton "Қанша адам келесіздер?*" [ref=f5e732]: "3"
+                - button [disabled] [ref=f5e733]
+          - button "Ж Ж Ж і і і б б б е е е р р р у у у К К е е т т т т і і" [ref=f5e735] [cursor=pointer]:
+            - generic [ref=f5e737]:
+              - generic:
+                - generic:
+                  - generic: Ж Ж Ж
+                  - generic: і і і
+                  - generic: б б б
+                  - generic: е е е
+                  - generic: р р р
+                  - generic: у у у
+                - generic:
+                  - generic: К К
+                  - generic: е е
+                  - generic: т т
+                  - generic: т т
+                  - generic: і і
+          - heading "Тойымыздың қадірлі қонақтары болыңыз!" [level=3] [ref=f5e739]
+      - button "Сақтау" [ref=f5e943]
+    - alert [ref=f5e944]: Notification [ "Сілтеме көшірілді" ]
+  - region "Notifications (F8)":
+    - list:
+      - alert [ref=f5e946]:
+        - generic [ref=f5e948]: Сілтеме көшірілді
+        - button "Close" [ref=f5e951]
+        - progressbar "80%" [ref=f5e954]
+  - generic [ref=f5e957]:
+    - button "Конверт" [ref=f5e958] [cursor=pointer]
+    - switch "Конверт" [checked] [ref=f5e963]
